@@ -2,7 +2,8 @@
 
 Download:
 
-$ git clone https://github.com/Txpert/javascript
+    $ git clone https://github.com/Txpert/javascript
+
 Update:
 
-$ git pull
+    $ git pull
