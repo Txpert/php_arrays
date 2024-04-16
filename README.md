@@ -2,7 +2,7 @@
 
 Download:
 
-    $ git clone https://github.com/Txpert/javascript
+    $ git clone https://github.com/Txpert/php_arrays
 
 Update:
 
