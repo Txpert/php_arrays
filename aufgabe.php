@@ -9,4 +9,6 @@ Benutze eine Schleife, um 10 Mal eine Folge von Operationen auszuführen.
 In jeder Iteration der Schleife, benutze random_bytes() um eine Zeichenfolge von zufälligen Bytes zu generieren.
 Wandle die Bytes in einen lesbaren Text um, indem du die Funktion bin2hex() benutzt. Dies verdoppelt die Länge der Zeichenfolge, also nimm nur die ersten 8 Zeichen, um das Passwort zu erhalten.
 Füge das erzeugte Passwort zum Array hinzu.
-Gib am Ende alle Passwörter aus, um zu sehen, was du generiert hast.
+Gib am Ende alle Passwörter aus, um zu sehen, was du generiert hast...
+
+
